@@ -2,7 +2,7 @@
 
 > ## :books: Les fondements Théoriques
 #### 1. L'approche par compétence.
-#### 2. Adoptation de pédagogie par projet.
+#### 2. Pédagogie par projet.
 #### 3. Apprentissage par les pairs.
 
 > ## La valorisation durant l'évaluation
